@@ -12,17 +12,17 @@ using namespace std;
 int main() {
     const double SWEETENER_IN_SODA = 0.001;
     double sweetenerAmount;
-    cout << "What is the amount of artificial sweetener needed to kill a mouse:\n";
+    cout << "What is the amount of artificial sweetener needed to kill a mouse: \n";
     
     cin >> sweetenerAmount;
 
     double weightOfMouse;
-    cout << "What is the weight of the mouse:\n";
+    cout << "What is the weight of the mouse: \n";
 
     cin >> weightOfMouse;
 
     double weightOfDieter;
-    cout << "What is the weight of the dieter:\n";
+    cout << "What is the weight of the dieter: \n";
 
     cin >> weightOfDieter;
 
